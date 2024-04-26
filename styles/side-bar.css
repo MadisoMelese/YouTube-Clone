@@ -32,7 +32,9 @@
 
 @media (max-width:550px){
   body{
-    padding-left: 18px;
+    padding-left: 8px;
+    padding-right: 8px;
+    
   }
   .side-bar{
   position:relative;
